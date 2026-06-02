@@ -1,0 +1,25 @@
+## User-specific files
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Debug_NonInteractive]/
+[Release]/
+x64/
+x86/
+bincore/
+obj/
+[Bb]in/
+[Oo]bj/
+
+## Databases (Crucial for your project)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
